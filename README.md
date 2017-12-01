@@ -2,6 +2,8 @@
 
 This is an example project that uses [Material-UI](https://github.com/callemall/material-ui).
 
+Online Demo can be seen here - [webpack-material-ui-example.surge.sh/](http://webpack-material-ui-example.surge.sh/)
+
 ## Installation
 
 After cloning the repository, install dependencies:
